@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "465212097577",
+    "firebase_url": "https://lastmoean.firebaseio.com",
+    "project_id": "lastmoean",
+    "storage_bucket": "lastmoean.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465212097577:android:d1d1ce3b080521a3fc4838",
+        "android_client_info": {
+          "package_name": "com.example.lastmoean"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465212097577-7gdj92lhv88jhtrt0ksdr84jq1c1vl28.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8ZNae0uQjardRA3qwtjAf8iVXHDarneQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465212097577-7gdj92lhv88jhtrt0ksdr84jq1c1vl28.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
